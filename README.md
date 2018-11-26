@@ -1,6 +1,9 @@
 # Assignment2 
 
-Team Members
+## Team Members
 - Anusha Kopparam
 - Gubbala Madhuri
 - Udit Mehta
+
+## Dataset
+https://www.kaggle.com/zynicide/wine-reviews
